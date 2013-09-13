@@ -1,0 +1,126 @@
+/mnt/_swdev/CLEARED/
+├── 01.Ari-WebService-JavaNet
+├── 03.Fajar-SI-ASP
+├── 03.NON
+├── 03.REZ
+├── 03.SHI
+├── 04.AJON
+├── 04.Dwi-DMin-SQL
+├── 04.Edi-Kriptografi-Java
+├── 05.IRU
+├── 05.SUP
+├── 06.Rahmat-SmsGateWayJ2Me-Java
+├── 06.RON
+├── 06.SAM
+├── 07.NUR
+├── 07.Ratif-J2me-Grafik
+├── 08.EMA
+├── 08.FAJ
+├── 10.Joko-Multimedia-Flash
+├── 10.SEL
+├── 12.Chandra Uii
+├── 13.Dito-Jakarta
+├── 13.Riza
+├── 14.CAT
+├── 16.Fitra-SmsGateway-Java
+├── 17.AGU
+├── 18.Riza-Java
+├── 19.Lili-Uty-J2me
+├── 21.MIR
+├── 22.Husein-JST-Java
+├── 22.TAN
+├── 23.TOM
+├── 24.HEN[SEL]
+├── 4.PLA
+├── 5.IWA
+├── 7.ITA
+├── 8.FAJ
+├── 9.EGA[EXT]
+├── 9.IWA
+├── Aan-PengisianPulsaElektronik-SMSGateway-Java
+├── Akbar-Spk-Php
+├── B.ASM
+├── B.BIM[EXT]
+├── Behnhard Ukdw - Dakon Dengan Algoritma Generate and Test menggunakan VB.NET
+├── Bima Aziz Poltek Semarang - Sistem Informasi Jawa Tengah dengan J2ME + PHP + Google Earth
+├── C.BAM
+├── Cendy-PenuntunSholat-J2me
+├── Dana Akakom - SIG Kapet Sasamba Arcview + PHP + OpenSvgMapServer
+├── Danang-SimulasiFuzzy-Java
+├── David UKDW - Bluetooth Group Chating with J2ME
+├── Didik UKDW - Sistem Informasi Pegawai
+├── D.INA
+├── Dito Perbanas Jkt - SmsGateway Java + VB.NET untuk Perbaikan KRS
+├── Dito UKDW - Pembelajaran ClosedHash dengan Peedy
+├── DwiHeru-PembelajaranPeta-VB.NET
+├── Dyah MKomp UGM - Integrasi WebService SMK dengan Java
+├── Dyah UAD - Animasi Sholat 3D dengan TrueVision dan VB.NET
+├── Edi MKomp UGM - Kriptografi dengan JCE + Xindice
+├── Endang-InteroperabilitasWebService-JavaNet
+├── Fadli-InfoUniversitas-SMSGateway(lagi)-Java
+├── Faul Amikom - SalesMonitoring
+├── Fembri UKDW - Algoritma Greedy untuk Penjadwalan Pertandingan Bola
+├── Franz - Sistem Informasi Resto Kuliner Berbasis J2ME
+├── Gdt-WebService-Java
+├── GITTED_03.NON
+├── GITTED_04.Chandra-SmsGateway-Java
+├── GITTED_04.Edi-Kriptografi-Java
+├── GITTED_AswanHalil-PemilihanUniversitasDgnAHP-DSS-VB6
+├── GITTED_Behnhard Ukdw - Dakon Dengan Algoritma Generate and Test menggunakan VB.NET
+├── GITTED.Dani MKomp UGM - SPK dan SIG menggunakan Google Earth untuk Penentuan Resto Kuliner Terbaik
+├── GITTED_David UKDW - Bluetooth Group Chating with J2ME
+├── GITTED_Didik UKDW - Sistem Informasi Pegawai
+├── GITTED_Fembri UKDW - Algoritma Greedy untuk Penjadwalan Pertandingan Bola
+├── GITTED.Taufik-GoogleEarth-VB.NET
+├── HarryPrasetyo - GPS ngirim Lokasi ke PHP - J2ME
+├── Hendra-AntiRokok-Flash
+├── Hendra UKDW - Location Based Service dengan J2ME
+├── Hengky UII - Algoritma Demspter-Shafer untuk Diagnosa Penyakit ADHD
+├── HenyPratiwi-DssPenjualan-VB.Net
+├── Heru Ismanto-VB6MapObjects
+├── Ibnu UII - Spk Inventory - VB.NET+MySQL
+├── Ida Uni - Aplikasi Elearning + Mobile Learning dengan J2ME dan PHP
+├── Ika-eEdukasi-Authorware+Flash
+├── Indra UII - Flash + PHP untuk Distro Kaos
+├── Ipunk-ePaymentViaSMS-Java
+├── Ismed-FingerPrint-VB6
+├── IvanBatara-Islami-J2ME
+├── Ivan UII - Aplikasi JTajwid pada J2ME
+├── Ivena-XP-Java
+├── IyanIcha-SMSGateway-Java
+├── Komang Amikom - Integrasi J2ME + PHP untuk Info Fasilitas Publik
+├── LukmanUnila-SmsGateway-JavaVbNet
+├── LuthfiMuhammadIlham-DSS-Java
+├── Nely - Kompresi Citra dengan Kohonen Map menggunakan VB.NET
+├── Niken Sandi - Enkripsi Citra pada MMS dengan Metode Hibrid (Chaos + RSA) dengan J2ME
+├── Nita UMM - Sistem Informasi Perusahaan Udang - VB.NET
+├── Ode UKDW - AHP Topik Milih Motor dengan VB.NET
+├── Pambudi-SmsGatewayPariwisata-Java
+├── PAN
+├── Phyta UAD - SmsGateway Rental Mobil
+├── Phyta UKDW - Shortest Path dengan Flloyd Warshall
+├── Pramudi UII - Smsgateway Info Wisata Solo
+├── Pram UPN - Sms Gateway Dengan Java kasus Servis Reminder Nasmoco
+├── Punia Dewi - AHP Penjualan Motor - VB.NET
+├── Putra Amikom-Web Service-JavaVB.NET
+├── Radhit-Bisnis-JME
+├── Redhy-GIS-ArcViewMySQL
+├── Rhio-SPK-Php
+├── Richard UKDW - Toko Online dengan ASP.NET
+├── Rizal - Voip + Record + Encrypt Sound - Java
+├── Rudi UKDW - Kompresi SMS dengan Huffman
+├── RUKLI - Computer Adaptive Testing dengan Dojo + JSP
+├── Rukli - Prakter Dokter dengan JSP + DOJO
+├── Sari Poltek Semarang - Sistem Informasi Rumah Sakit dengan J2ME + PHP
+├── Steven UKDW - Algoritma Backward Chaining pada Kasus Penentuan Penyakit Tanaman Cabe
+├── Teneng UKDW - Backtracking pada MathMaze dengan VB.NET
+├── -= TIDAK JADI =-
+├── Wahyu-Gateway-Java
+├── Warto - Perbaikan Citra
+├── Yoyok-Kepegawaian-Java
+├── Yudha-FingerPrintDanSMS-VB
+├── Yuli - Enkripsi MMS dengan RC6 - J2ME
+├── Zaki-SMSGateway-GambasGnokii
+└── Zulfan-LabViewMySQLPhp
+
+123 directories, 0 files
