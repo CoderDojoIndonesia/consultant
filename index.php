@@ -48,10 +48,11 @@
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Online Profile<b class="caret"></b></a>
                   <ul class="dropdown-menu">
-                    <li><a href="#">Facebook</a></li>
-                    <li><a href="#">LinkedIn</a></li>
-                    <li><a href="#">Stackoverflow</a></li>
-                    <li><a href="#">Github</a></l>i
+                    <li><a href="http://www.facebook.com/swdev">Facebook</a></li>
+                    <li><a href="http://ekoswibowo.wordpress..com/swdev">Wordpress</a></li>
+                    <li><a href="http://id.linkedin.com/pub/eko-wibowo/30/32b/503/">LinkedIn</a></li>
+                    <li><a href="http://careers.stackoverflow.com/ekowibowo ">Stackoverflow</a></li>
+                    <li><a href="https://github.com/swdevbali">Github</a></l>
                   </ul>
                 </li>
               </ul>
