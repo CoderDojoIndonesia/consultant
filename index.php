@@ -1,3 +1,7 @@
+<?
+include "config.php";
+?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -17,8 +21,8 @@
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
-      <script src="../../assets/js/html5shiv.js"></script>
-      <script src="../../assets/js/respond.min.js"></script>
+      <script src="assets/js/html5shiv.js"></script>
+      <script src="assets/js/respond.min.js"></script>
     <![endif]-->
   </head>
 
@@ -34,7 +38,20 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-     <a class="navbar-brand" href="http://consultant.coderdojoindonesia.com">Consultation Service</a>
+
+     <ul>
+     <li class="dropdown">
+     <a href="#" class="navbar-brand dropdown-toggle" data-toggle="dropdown">Consultation Service&#x25BC; <b class="caret"></b></a>
+     <ul class="dropdown-menu">
+      <li><a href="<?=$url_cdi?>" target="_blank">CoderDojo Indonesia</a></li>
+      <li><a href="<?=$url_consultant?>"  target="_blank"">Consultation Service</a></li>
+     <li><a href="<?=$url_clients?>"  target="_blank">Clients Monitoring</a></li>
+
+     </ul>
+     </li>
+     </ul>
+
+     <!--     <a class="navbar-brand" href="http://consultant.coderdojoindonesia.com">Consultation Service</a>-->
         </div>
 
             <div class="navbar-collapse collapse">
@@ -48,11 +65,11 @@
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Online Profile<b class="caret"></b></a>
                   <ul class="dropdown-menu">
-                    <li><a href="http://www.facebook.com/swdev">Facebook</a></li>
-                    <li><a href="http://ekoswibowo.wordpress..com/swdev">Wordpress</a></li>
-                    <li><a href="http://id.linkedin.com/pub/eko-wibowo/30/32b/503/">LinkedIn</a></li>
-                    <li><a href="http://careers.stackoverflow.com/ekowibowo ">Stackoverflow</a></li>
-                    <li><a href="https://github.com/swdevbali">Github</a></l>
+                    <li><a href="http://www.facebook.com/swdev" target="_blank">Facebook</a></li>
+                    <li><a href="http://ekoswibowo.wordpress.com" target="_blank">Wordpress</a></li>
+                    <li><a href="http://id.linkedin.com/pub/eko-wibowo/30/32b/503/" target="_blank">LinkedIn</a></li>
+                    <li><a href="http://careers.stackoverflow.com/ekowibowo " target="_blank">Stackoverflow</a></li>
+                    <li><a href="https://github.com/swdevbali" target="_blank">Github</a></l>
                   </ul>
                 </li>
               </ul>
