@@ -14,10 +14,3 @@
         
         </div>
       </div>
-
-      <hr class="featurette-divider">
-
-      <footer>
-        <p>&copy; CoderDojo Indonesia 2013</p>
-      </footer>
-
