@@ -7,7 +7,7 @@ include "config.php";
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
+    <meta name="description" content="bimbingan konsultasi tugas akhir skripsi thesis disertasi yogyakarta jakarta semarang solo salatiga jogja s1 s2 s3 bimbingan jarak jauh murah bergaransi bukan plagiat menggunakan bahasa java c++ vb.net php delphi c#.net asp.net python ">
     <meta name="author" content="">
     <link rel="shortcut icon" href="assets/ico/favicon.png">
 
