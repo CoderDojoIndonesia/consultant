@@ -57,6 +57,7 @@ include "config.php";
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
      <li <? if($p=='home' || $p=='') { ?> class="active" <? } ?>><a href="?p=home">Home</a></li>
+     <li <? if($p=='journal') { ?> class="active" <? } ?>><a href="?p=journal">Journal</a></li>
      <li <? if($p=='previous') { ?> class="active" <? } ?>><a href="?p=previous">Previous Work</a></li>
      <li <? if($p=='pricing') { ?> class="active" <? } ?>><a href="?p=pricing">Pricing</a></li>
      <li <? if($p=='tos') { ?> class="active" <? } ?>><a href="?p=tos">Term of Service</a></li>
@@ -115,7 +116,9 @@ include "config.php";
         <?php
 
         if($p=='' || $p=='home') {
-            include('home.php');
+            include('home.php');            
+        }else if($p=='journal'){
+            include('journal.php');
         }else if($p=='previous'){
             include('previous.php');
         }else if($p=='tos'){
@@ -124,6 +127,8 @@ include "config.php";
             include('pricing.php');
         }else if($p=='contact'){
             include('contact.php');
+        }else{
+            include('home.php');
         }
      ?>
      </div> <!-- /container -->

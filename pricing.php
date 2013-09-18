@@ -3,9 +3,9 @@
 <p>
 Biaya pokok adalah biaya yang Anda keluarkan jika sudah mantap dan mempercayakan konsultasi tugas akhir Anda kepada saya. Dan, saya tidak akan berbasa-basi dalam hal ini: nilai jasa konsultasi saya terbilang cukup mahal. Tugas Akhir adalah perkara serius, dengan beban tekanan yang tinggi dan harus disikapi dengan seprofesional mungkin. Konsultasi rutin, revisi dosen, persiapan pendadaran dan revisi pasca pendadaran, kesemuanya itu membutuhkan dan mengkonsumsi stamina lahir maupun bathin yang luar biasa. Setelah bertahun-tahun memahami semua seluk-beluk jasa konsultasi tugas akhir ini, maka akhirnya saya bisa menemukan rumusan biaya yang akan menjamin terselesaikannya Tugas Akhir Anda dengan sempurna, yaitu :
 <ol>
-     <li>S1 = Rp. 3.500.000,00</li>
-     <li>S2 = Rp. 6.500.000,00</li>
-     <li>S3 = Rp. 9.500.000,00</li>
+     <li>S1 = Rp. 4.000.000,00</li>
+     <li>S2 = Rp. 7.000.000,00</li>
+     <li>S3 = Rp. 10.000.000,00</li>
 </ol>
 <p>
      Biaya pokok ini harus dibayarkan dimuka sebesar 50%, dengan satu syarat yang wajib dipatuhi : biaya yang dikeluarkan, tidak bisa diminta kembali, apapun alasan yang melatarbelakanginya. Alasannya sederhana : saya bisa kelabakan kalau sampai ada fase harus mengembalikan uang muka. Berdasarkan pengalaman, hal itulah yang dulu sempat membuat saya enggan menekuni jasa konsultasi ini. :)
